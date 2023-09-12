@@ -23,7 +23,7 @@ const Value = () => {
         {/* left side */}
         <div className="v-left">
           <div className="image-container">
-            <img src="./value.png" alt="" />
+            <img src="./2fiber.jpeg" alt="" />
           </div>
         </div>
 
@@ -36,7 +36,7 @@ const Value = () => {
           <span className="secondaryText">
             We always ready to help by providijng the best services for you.
             <br />
-            We beleive a good blace to live can make your life better
+            We beleive in good Bandwidth speed to your home
           </span>
 
           <Accordion
