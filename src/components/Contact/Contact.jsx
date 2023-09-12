@@ -29,10 +29,12 @@ const Contact = () => {
                     <span className="secondaryText">021 123 145 14</span>
                   </div>
                 </div>
+                <a href="tel:+918169405067">
                 <div className="flexCenter button">Call now</div>
+                </a>
               </div>
 
-              <div className="flexColCenter mode">
+              {/* <div className="flexColCenter mode">
                 <div className="flexStart">
                   <div className="flexCenter icon">
                     <BsFillChatDotsFill size={25} />
@@ -44,10 +46,10 @@ const Contact = () => {
                 </div>
                 <div className="flexCenter button">Chat now</div>
               </div>
-            </div>
+            </div> */}
 
             {/* second row */}
-            <div className="flexStart row">
+            {/* <div className="flexStart row">
               <div className="flexColCenter mode">
                 <div className="flexStart">
                   <div className="flexCenter icon">
@@ -61,7 +63,7 @@ const Contact = () => {
                 <a href="tel:+918169405067">
                 <div className="flexCenter button">Video Call now</div>
                 </a>
-              </div>
+              </div> */}
 
               <div className="flexColCenter mode">
                 <div className="flexStart">
@@ -69,11 +71,14 @@ const Contact = () => {
                     <HiChatBubbleBottomCenter size={25} />
                   </div>
                   <div className="flexColStart detail">
-                    <span className="primaryText">Message</span>
-                    <span className="secondaryText">021 123 145 14</span>
+                    <span className="primaryText">Email</span>
+                    
+                    <span className="secondaryText"> company@gmail.com </span>
                   </div>
                 </div>
-                <div className="flexCenter button">Message now</div>
+                <a href="mailto:krishay958.com">
+                <div className="flexCenter button">Email now</div>
+                </a>
               </div>
             </div>
           </div>
