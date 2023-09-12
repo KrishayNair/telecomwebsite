@@ -58,7 +58,9 @@ const Contact = () => {
                     <span className="secondaryText">021 123 145 14</span>
                   </div>
                 </div>
+                <a href="tel:+6199942413">
                 <div className="flexCenter button">Video Call now</div>
+                </a>
               </div>
 
               <div className="flexColCenter mode">
