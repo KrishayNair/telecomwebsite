@@ -24,15 +24,15 @@ const Hero = () => {
             </motion.h1>
           </div>
           <div className="flexColStart secondaryText flexhero-des">
-            <span>Find a variety of properties that suit you very easilty</span>
-            <span>Forget all difficulties in finding a residence for you</span>
+            <span>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quis est</span>
+            <span>ipsum dolor sit amet consectetur adipisicing elit</span>
           </div>
 
-          <div className="flexCenter search-bar">
+          {/* <div className="flexCenter search-bar">
             <HiLocationMarker color="var(--blue)" size={25} />
             <input type="text" />
             <button className="button">Search</button>
-          </div>
+          </div> */}
 
           <div className="flexCenter stats">
             <div className="flexColCenter stat">

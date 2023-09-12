@@ -13,6 +13,8 @@
 /* left side */
 .hero-left {
   gap: 3rem;
+  position: relative;
+  bottom: 5rem;
 }
 .hero-title {
   position: relative;
