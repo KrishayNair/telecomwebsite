@@ -55,7 +55,7 @@
   font-size: 2rem;
 }
 .stat > :nth-child(1) > :last-child {
-  color: orange;
+  color: #4066ff;
 }
 /* right side */
 
@@ -94,5 +94,10 @@
   }
   .stat > :nth-child(2) {
     font-size: 0.8rem;
+  }
+  .hero-left {
+    gap: 3rem;
+    position: relative;
+    top: 1rem;
   }
 }
